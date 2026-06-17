@@ -4,7 +4,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/HhCompile/HhCompile@main/assets/images/coding.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/HhCompile/HhCompile@main/assets/images/developer.svg" height="225px" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/HhCompile/HhCompile@main/assets/images/hero-octocat.gif" />
   <img src="https://cdn.jsdelivr.net/gh/HhCompile/HhCompile@main/assets/images/coding.gif" width="320" />
 </picture>
 
