@@ -36,6 +36,39 @@
 
 > 💡 **4 个已存在 + 3 个待创建**（⚛️ react-component-kit、🧩 microfrontend-showcase、🤖 ai-chatbot）
 
+## 🤖 AI 实战（Claude 工作流与使用案例）
+
+> 记录日常使用 Claude 的工作流模式、实战案例与最佳实践 · 持续沉淀中
+
+### 🔄 工作流
+
+| 流程 | 用途 | 详情 |
+| --- | --- | --- |
+| 代码审查 | PR review / 自查 | [📄 docs](./docs/ai/workflows/code-review.md) |
+| 重构 | 拆大文件 / 规范化 | [📄 docs](./docs/ai/workflows/refactor.md) |
+| 调试 | 复杂 bug 定位 | [📄 docs](./docs/ai/workflows/debug.md) |
+| TDD | RED → GREEN → IMPROVE | [📄 docs](./docs/ai/workflows/tdd.md) |
+| 脚手架 | 模板项目搭建 | [📄 docs](./docs/ai/workflows/scaffold.md) |
+| 架构设计 | 多视角决策 | [📄 docs](./docs/ai/workflows/architecture.md) |
+
+### 🎯 实战案例
+
+| 案例 | 涉及技术 | 详情 |
+| --- | --- | --- |
+| 01 · API 设计 | Backend | [📄 docs](./docs/ai/showcase/case-01-api-design.md) |
+| 02 · 组件重构 | Frontend | [📄 docs](./docs/ai/showcase/case-02-component-refactor.md) |
+| 03 · 性能优化 | Performance | [📄 docs](./docs/ai/showcase/case-03-performance.md) |
+| 04 · Bug 定位 | Debug | [📄 docs](./docs/ai/showcase/case-04-bug-hunt.md) |
+| 05 · 测试补齐 | TDD | [📄 docs](./docs/ai/showcase/case-05-test-coverage.md) |
+| 06 · 微前端落地 | Architecture | [📄 docs](./docs/ai/showcase/case-06-microfrontend.md) |
+
+### 📌 总结
+
+- [最佳实践总结](./docs/ai/best-practices.md) — 跨工作流经验沉淀
+- [模块总览](./docs/ai/README.md) — 完整目录
+
+> 💡 **博客同步**：当前手动同步。后续可接入 RSS 自动从博客拉取 AI 主题文章。
+
 ## 🛠 Tech Stack
 
 **Frontend**
