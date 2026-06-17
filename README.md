@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Hi%2C%20I'm%20HhCompile%20👋;Frontend%20Engineer%20%7C%20Vue%20%2F%20TypeScript;Building%20something%20awesome%20%E2%9C%A8&center=true&size=22)](https://git.io/typing-svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/HhCompile/HhCompile@main/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/HhCompile/HhCompile@main/assets/images/developer.svg" height="225px" />
+  <img src="https://cdn.jsdelivr.net/gh/HhCompile/HhCompile@main/assets/images/coding.gif" width="320" />
 </picture>
 
 <div>&nbsp;</div>
@@ -39,17 +39,24 @@
 
 ## 📊 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HhCompile&show_icons=true&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=HhCompile&show_icons=true&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=HhCompile&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HhCompile&layout=compact&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HhCompile&layout=compact&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HhCompile&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</picture>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HhCompile&show_icons=true&theme=tokyonight&hide_border=true&card_width=495" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=HhCompile&show_icons=true&theme=default&hide_border=true&card_width=495" />
+        <img src="https://github-readme-stats.vercel.app/api?username=HhCompile&show_icons=true&theme=default&hide_border=true&card_width=495" alt="GitHub Stats" />
+      </picture>
+    </td>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HhCompile&layout=compact&theme=tokyonight&hide_border=true&card_width=495&langs_count=8" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HhCompile&layout=compact&theme=default&hide_border=true&card_width=495&langs_count=8" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HhCompile&layout=compact&theme=default&hide_border=true&card_width=495&langs_count=8" alt="Top Languages" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ## 🔥 Streak
 
