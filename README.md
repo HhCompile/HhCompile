@@ -22,6 +22,34 @@
 
 ---
 
+## 🚀 Featured Projects
+
+- [**HhCompile/dynamic-virtual-list**](https://github.com/HhCompile/dynamic-virtual-list) — 高性能 Vue 3 虚拟滚动组件 · TypeScript · 零第三方依赖
+- [**HhCompile/json-schema-form-engine**](https://github.com/HhCompile/json-schema-form-engine) — JSON Schema 驱动的可视化表单引擎（渲染/校验/拖拽设计一体化）
+- [**HhCompile/best-h5-template**](https://github.com/HhCompile/best-h5-template) — Vue 3 + TypeScript H5 移动端模板
+- [**HhCompile/HhCompile.github.io**](https://github.com/HhCompile/HhCompile.github.io) — 个人作品集站点（Vue 3 + Vite + GitHub Pages 自动部署）
+
+## 🛠 Tech Stack
+
+**Frontend**
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+
+**Tooling**
+![Node.js](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+
+**Platform**
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=fff&style=flat)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
+
 ## 🙋 About Me
 
 - 🔭 8 年前端开发经验 · **高级前端开发工程师 / 前端架构师**
@@ -29,13 +57,6 @@
 - 🌱 关注：**Web 性能优化 · 组件库设计 · AI 辅助编程**
 - 💬 欢迎在 [Issues](https://github.com/HhCompile/HhCompile/issues) 或邮箱与我交流
 - 🎯 长期目标：把"让代码比泡面香"这件事做得更久一点
-
-## 🚀 Featured Projects
-
-- [**HhCompile/dynamic-virtual-list**](https://github.com/HhCompile/dynamic-virtual-list) — 高性能 Vue 3 虚拟滚动组件 · TypeScript · 零第三方依赖
-- [**HhCompile/json-schema-form-engine**](https://github.com/HhCompile/json-schema-form-engine) — JSON Schema 驱动的可视化表单引擎（渲染/校验/拖拽设计一体化）
-- [**HhCompile/best-h5-template**](https://github.com/HhCompile/best-h5-template) — Vue 3 + TypeScript H5 移动端模板
-- [**HhCompile/HhCompile.github.io**](https://github.com/HhCompile/HhCompile.github.io) — 个人作品集站点（Vue 3 + Vite + GitHub Pages 自动部署）
 
 ## 📊 GitHub Stats
 
@@ -73,23 +94,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HhCompile/HhCompile/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HhCompile/HhCompile/output/github-contribution-grid-snake.svg" />
 </picture>
-
-## 🛠 Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
-![Node.js](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
-
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=fff&style=flat)
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 
 ## 📝 Recent Blog
 
