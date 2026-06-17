@@ -14,7 +14,7 @@
   <a href="https://github.com/HhCompile"><img src="https://img.shields.io/badge/GitHub-HhCompile-181717?logo=github&logoColor=fff&style=flat" /></a>&emsp;
   <a href="https://hhcompile.github.io"><img src="https://img.shields.io/badge/Portfolio-作品集-8c36db?logo=google-chrome&logoColor=fff&style=flat" /></a>&emsp;
   <a href="https://github.com/HhCompile?tab=repositories"><img src="https://img.shields.io/badge/Projects-项目-blue?logo=github&logoColor=fff&style=flat" /></a>&emsp;
-  <a href="mailto:i@hhcompile.dev"><img src="https://img.shields.io/badge/Email-邮件-ea4335?logo=gmail&logoColor=fff&style=flat" /></a>&emsp;
+  <a href="mailto:sunxiansheng99999@163.com"><img src="https://img.shields.io/badge/Email-邮件-ea4335?logo=gmail&logoColor=fff&style=flat" /></a>&emsp;
   <img src="https://komarev.com/ghpvc/?username=HhCompile&label=Views&color=orange&style=flat" alt="访问量统计" />
 </div>
 
@@ -24,10 +24,17 @@
 
 ## 🚀 Featured Projects
 
-- [**HhCompile/dynamic-virtual-list**](https://github.com/HhCompile/dynamic-virtual-list) — 高性能 Vue 3 虚拟滚动组件 · TypeScript · 零第三方依赖
-- [**HhCompile/json-schema-form-engine**](https://github.com/HhCompile/json-schema-form-engine) — JSON Schema 驱动的可视化表单引擎（渲染/校验/拖拽设计一体化）
-- [**HhCompile/best-h5-template**](https://github.com/HhCompile/best-h5-template) — Vue 3 + TypeScript H5 移动端模板
-- [**HhCompile/HhCompile.github.io**](https://github.com/HhCompile/HhCompile.github.io) — 个人作品集站点（Vue 3 + Vite + GitHub Pages 自动部署）
+| 项目 | 简介 | 技术栈 | Demo | 详情 | 仓库 |
+| --- | --- | --- | --- | --- | --- |
+| 🔥 dynamic-virtual-list | 高性能 Vue 3 虚拟滚动 | `Vue 3` `TS` | [🌐 链接](https://hhcompile.github.io/dynamic-virtual-list/) | [📄 docs](./docs/projects/dynamic-virtual-list.md) | [📦 src](https://github.com/HhCompile/dynamic-virtual-list) |
+| 📋 json-schema-form-engine | JSON Schema 表单引擎 | `Vue 3` `TS` | _待补齐_ | [📄 docs](./docs/projects/json-schema-form-engine.md) | [📦 src](https://github.com/HhCompile/json-schema-form-engine) |
+| 📱 best-h5-template | Vue3 H5 模板 | `Vue 3` `Vite` | _待补齐_ | [📄 docs](./docs/projects/best-h5-template.md) | [📦 src](https://github.com/HhCompile/best-h5-template) |
+| 🏠 HhCompile.github.io | 个人作品集 | `Vue 3` `Vite` | [🌐 链接](https://hhcompile.github.io) | [📄 docs](./docs/projects/HhCompile.github.io.md) | [📦 src](https://github.com/HhCompile/HhCompile.github.io) |
+| ⚛️ react-component-kit | React 组件库 | `React` `TS` | _待补齐_ | [📄 docs](./docs/projects/react-component-kit.md) | _待创建_ |
+| 🧩 microfrontend-showcase | 微前端脚手架 | `qiankun` `Vue 3` | _待补齐_ | [📄 docs](./docs/projects/microfrontend-showcase.md) | _待创建_ |
+| 🤖 ai-chatbot | AI 智能问答 | `Next.js` `Claude` | _待补齐_ | [📄 docs](./docs/projects/ai-chatbot.md) | _待创建_ |
+
+> 💡 **4 个已存在 + 3 个待创建**（⚛️ react-component-kit、🧩 microfrontend-showcase、🤖 ai-chatbot）
 
 ## 🛠 Tech Stack
 
