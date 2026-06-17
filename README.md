@@ -33,11 +33,31 @@
 
 **Frontend**
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?logo=react&logoColor=fff&style=flat)
+![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?logo=antdesign&logoColor=fff&style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+
+**Micro-Frontend**
+![qiankun](https://img.shields.io/badge/qiankun-1976D2?logo=antdesign&logoColor=fff&style=flat)
+![micro-app](https://img.shields.io/badge/micro--app-FF6B35?logo=tencentqq&logoColor=fff&style=flat)
+![wujie](https://img.shields.io/badge/wujie-1890FF?logo=tencentqq&logoColor=fff&style=flat)
+![Module Federation](https://img.shields.io/badge/Module%20Federation-8DD6F9?logo=webpack&logoColor=000&style=flat)
+
+**Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=flat)
+
+**AI**
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=000&style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=fff&style=flat)
+![Claude](https://img.shields.io/badge/Claude-AI-CC785C?logo=anthropic&logoColor=fff&style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=flat)
 
 **Tooling**
 ![Node.js](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
