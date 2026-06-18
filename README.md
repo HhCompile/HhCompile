@@ -30,6 +30,7 @@
 | 📋 json-schema-form-engine | JSON Schema 表单引擎 | `Vue 3` `TS` | _待补齐_ | [📄 docs](./docs/projects/json-schema-form-engine.md) | [📦 src](https://github.com/HhCompile/json-schema-form-engine) |
 | 📱 best-h5-template | Vue3 H5 模板 | `Vue 3` `Vite` | _待补齐_ | [📄 docs](./docs/projects/best-h5-template.md) | [📦 src](https://github.com/HhCompile/best-h5-template) |
 | 🏠 HhCompile.github.io | 个人作品集 | `Vue 3` `Vite` | [🌐 链接](https://hhcompile.github.io) | [📄 docs](./docs/projects/HhCompile.github.io.md) | [📦 src](https://github.com/HhCompile/HhCompile.github.io) |
+| 🔖 bookmark-manager-web | 智能书签管理 | `React` `TS` | _待补齐_ | [📄 docs](./docs/projects/bookmark-manager-web.md) | [📦 src](https://github.com/HhCompile/bookmark-manager-web) |
 | ⚛️ react-component-kit | React 组件库 | `React` `TS` | _待补齐_ | [📄 docs](./docs/projects/react-component-kit.md) | _待创建_ |
 | 🧩 microfrontend-showcase | 微前端脚手架 | `qiankun` `Vue 3` | _待补齐_ | [📄 docs](./docs/projects/microfrontend-showcase.md) | _待创建_ |
 | 🤖 ai-chatbot | AI 智能问答 | `Next.js` `Claude` | _待补齐_ | [📄 docs](./docs/projects/ai-chatbot.md) | _待创建_ |
