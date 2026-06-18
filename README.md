@@ -37,6 +37,37 @@
 
 > 💡 **4 个已存在 + 3 个待创建**（⚛️ react-component-kit、🧩 microfrontend-showcase、🤖 ai-chatbot）
 
+## 🏗️ 完整产品工作区：Bookmark Manager
+
+> 这不是单一项目，而是**围绕"书签管理"的产品级 monorepo 工作区**——前端 / 后端 / Chrome 扩展 / 设计资源 / 完整文档体系 + AI 协作开发
+
+| 组件 | 仓库 | 技术栈 | 说明 |
+| --- | --- | --- | --- |
+| 🌐 **前端 Web** | [bookmark-manager-web](https://github.com/HhCompile/bookmark-manager-web) | `React 18` `Vite 6` `Tailwind 4` `TS` | 主应用 |
+| ⚙️ **后端 API** | [bookmark-manager-admin](https://github.com/HhCompile/bookmark-manager-admin) | `Flask 2.3` `Python` `REST API` | 数据服务 |
+| 🧩 **Chrome 扩展** | `OKComputer_Chrome书签整理工具/` | `Manifest V3` | 浏览器书签同步（本地工作区） |
+| 🎨 **设计资源** | `UI/` | `Figma` | UI 设计资产 |
+| 🤖 **AI 协作** | `.claude/` `.kimi/` `.reasonix/` | `Claude` `Kimi` | 多 AI 工具配置 |
+| 📚 **完整文档** | `docs/00-99` 7 个子目录 | `Markdown` | 索引/指南/API/架构/规范 |
+
+### ✨ 核心能力
+
+- 🔄 **浏览器书签同步**（Chrome 扩展）
+- 🤖 **AI 智能整理**（自动分类 / Tag 建议 / 死链检测）
+- 📊 **数据可视化**（健康度 / 活跃度分析）
+- 🔐 **私密保险箱**（加密书签）
+- 📖 **阅读模式**（书签文章转阅读视图）
+- 🛠️ **批量任务管理**
+
+### 🤖 AI 协作特色
+
+- 📄 工作区级 `AGENTS.md`（**744 行**详细指南）
+- 📁 多 AI 工具配置（Claude / Kimi / Reasonix）
+- 📚 `docs/99-agents/` 专门给 agent 看的文档
+- 🔍 `.codegraph/` 代码图谱索引
+
+> 💡 **一键启动**：`python3 start.py`（macOS/Linux）或 `start.bat`（Windows）
+
 ## 🤖 AI 实战（Claude 工作流与使用案例）
 
 > 记录日常使用 Claude 的工作流模式、实战案例与最佳实践 · 持续沉淀中
